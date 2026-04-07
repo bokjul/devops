@@ -22,4 +22,3 @@ jobs:
 
      - name: Check S3 Access
        run: aws s3 ls
-   
